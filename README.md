@@ -2,6 +2,7 @@
 
 # <article class="item thumb span-1"> Change Span Number "1,2,3" to change the border of the image on the page
 
+
 	<!-- Items -->
 		<div class="items">
 			<article class="item thumb span-1"><h2>#</h2><a href="images/fulls/09.jpg" class="image"><img src="images/thumbs/09.jpg" alt=""></a></article>
